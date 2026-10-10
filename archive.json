@@ -1,0 +1,20 @@
+{
+  "record": "BLACKBOX-ARCHIVE",
+  "protocol": "HTTP",
+  "order": [
+    "ASH",
+    "04",
+    "RD"
+  ],
+  "identifiers": [
+    "NOVA",
+    "17",
+    "03"
+  ],
+  "initials": [
+    "Library",
+    "Bridge",
+    "Relay"
+  ],
+  "note": "架空CTFの調査データ。実在サービスへの接続は不要。"
+}
